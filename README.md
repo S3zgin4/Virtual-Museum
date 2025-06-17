@@ -57,7 +57,7 @@ The Virtual Museum Project is an interactive 3D application that simulates a mus
 ### Download and Setup Instructions
 1. **Download the Project**
    - Download the project from this GitHub repository:
-     [https://github.com/yuemco/virtual-adana-museum-v2-team-6]
+     [https://github.com/S3zgin4/Virtual-Museum.git]
    - Click the green "Code" button and select "Download ZIP"
    - Extract the ZIP file to a location on your computer
 
@@ -172,11 +172,6 @@ The Virtual Museum Project is an interactive 3D application that simulates a mus
 
 ## Contributors
 - This Virtual Museum Project was created as an educational application showcasing historical artifacts from the Adana Museum.
-- Emre Samet Sezgin - 2021556057
-- Fatma Nur Gençdoğan - 2022556401
-- Gülse Ogultegin - 2021556049
-- Hasibe Nur Tunç - 2021556067
-- Zeynep Elif Göksu - 2021556033
 
 
 ## License
@@ -185,119 +180,4 @@ The Virtual Museum Project is an interactive 3D application that simulates a mus
 <br/> <br/> <br/>
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/A98mEP3-)
-# Virtual Museum Assignment
 
-<p align="center">
-  <img src="Model1.jpeg" alt="Model1" width="150"/>
-  <img src="Model2.jpg" alt="Model2" width="150"/>
-  <img src="Model3.jpeg" alt="Model3" width="150"/>
-  <img src="Model4.jpg" alt="Model4" width="150"/>
-  <img src="Model5.jpg" alt="Model5" width="50"/>
-</p>
-
-## Overview
-
-In this assignment, you will develop a computer graphics project using **C++** and **OpenGL** to simulate a virtual museum environment. You will create a 3D room with realistic lighting, model 3D objects from provided images using Blender, and simulate a mobile robot equipped with a robot arm (or a similar scanning mechanism) that interacts with these objects. When an object is scanned, a pop-up screen will display detailed information about that object.
-
-## Objectives
-
-- **Scene Construction:**  
-  Create a virtual museum room with at least one main light source. Extra points will be awarded for implementing additional spotlights.
-
-- **3D Modeling:**  
-  Model 5 museum objects (using images provided from Adana Museum) in Blender. Export these models and integrate them into your OpenGL scene.
-
-- **Mobile Robot Simulation:**  
-  Develop a mobile robot that navigates the room to visit and scan objects.  
-  - The robot should be equipped with a robot arm or a scanning mechanism looks like an arm.  
-  - Upon scanning an object, a pop-up UI should display information about that object.
-
-- **User Interface:**  
-  - Create UIs to control the mobile platform to visit objects automatically, scanning them from 1 to 5 and return initial position.
-  - Create UIs to control the mobile platform to visit each object manually, the robot arm to scan the object, and the lighting (including light control switches for features such as spotlights).
-
-## Plagiarism
-
-- **Academic integrity is paramount.** Plagiarism, which involves **copying code, models or other project components from others**, is strictly prohibited. All submitted work must be your own original work. 
-
-- **Scanning 3D models with an extra tool is prohibited.** 3D models must be created by you.
-
-- **The images of the textures you will use in 3D models must also be created by you.**
-
-- **If you use external sources or libraries, you must obtain permission from the source and prove this permission in your report.** You must cite them appropriately in your project documentation and in comments in your code.
-
-Failure to follow these guidelines may result in disciplinary action, including a failing grade for the assignment. Make sure you understand the Çukurova University Computer Engineering academic integrity policies and consult Yunus Emre Cogurcu if you have any questions.
-
-## Project Requirements
-
-- **Programming Language:** C++
-- **Graphics Library:** OpenGL - This project targets OpenGL 3.3 Core Profile
-- **3D Modeling Tool:** Blender (for modeling and exporting 3D objects)
-- **UI Framework:** Either custom-built or a UI library (e.g., ImGui) as specified
-- **Version Control:** Git/GitHub for project submission and collaboration
-
-## Deliverables
-
-1. **Source Code:**  
-   Well-organized and documented C++ and OpenGL 3.3 source code.
-
-2. **3D Models:**  
-   Blender files and exported models for the 5 museum objects. (Create a scene in Blender and model 5 objects in the same scene but export the objects one by one.)
-
-3. **Executable:**  
-   A buildable project that runs on the specified platform.
-
-4. **Documentation:**  
-   A detailed README (this document) explaining the project structure, build and run instructions, and details on controls and features.
-
-5. **Demonstration Video (extra points):**  
-   A short video demonstrating the robot’s functionality and UI controls.
-
-## Evaluation Criteria
-
-- **Scene Realism: (20 points)**  
-  Quality of the 3D room, lighting effects, and the use of spotlights for each objects. When the robot comes in front of each object, the spotlight belonging to that object automatically lights up and the spotlight belonging to other objects would be nice to be dimmed at this time.
-
-- **3D Modelling: (20 points)**  
-  Modelling 3D objects via Blender.
-
-- **Robot Simulation: (20 points)**  
-  Functionality of the mobile robot including navigation. Scanning mechanics via robot arm.
-
-- **UI Implementation: (20 points)**  
-  Ease of use and functionality of the control interfaces for the robot and lighting.
-
-- **Code Quality: (20 points)**  
-  Structure (OOP), clarity, and documentation of the source code.
-
-- **Bonus Points: (20 points)**  
-  Extra features such as additional spotlights, enhanced physics for the robot arm, collision detection, advanced shading techniques, ray tracing etc.
-
-## Suggested Workflow
-
-1. ### Setup and Environment
-   - Initialize your Git repository and project structure.
-   - Set up your development environment with necessary libraries (OpenGL, GLM, GLEW/GLAD, etc.).
-
-2. ### 3D Modeling
-   - Use Blender to create and export the 5 museum object models.
-   - Ensure the models are optimized for real-time rendering.
-
-3. ### Scene and Lighting
-   - Build the 3D room in OpenGL.
-   - Implement the main light source and add additional spotlights for extra credit.
-
-4. ### Robot and Interaction
-   - Design and implement the mobile robot.
-   - Develop the robot arm or scanning mechanism.
-   - Program the scanning function to trigger a pop-up information screen when an object is scanned.
-
-5. ### User Interface
-   - Design a UI to control the robot’s movements and the robot arm.
-   - Include buttons or switches for toggling lights (including spotlights).
-
-6. ### Testing and Documentation
-   - Test your project thoroughly.
-   - Document your code and update this README with detailed build instructions, controls, and feature descriptions.
-     <br/> (We have updated this README.)
