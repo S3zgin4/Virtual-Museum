@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+D:\repos\VirtualMuseumProject\Camera.cpp(54,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\repos\VirtualMuseumProject\Camera.cpp(55,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\repos\VirtualMuseumProject\Camera.cpp(59,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\repos\VirtualMuseumProject\Camera.cpp(60,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\repos\VirtualMuseumProject\Camera.cpp(62,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\repos\VirtualMuseumProject\Camera.cpp(63,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EBO.cpp
+  Main.cpp
+  Texture.cpp
+  VAO.cpp
+D:\repos\VirtualMuseumProject\VAO.cpp(12,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  shaderClass.cpp
+  Generating Code...
+  VirtualMuseumProject.vcxproj -> D:\repos\VirtualMuseumProject\x64\Debug\VirtualMuseumProject.exe
