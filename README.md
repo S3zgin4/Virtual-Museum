@@ -128,36 +128,36 @@ The Virtual Museum Project is an interactive 3D application that simulates a mus
   
 ### Images and GIFs of UI and Models
 **General View** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/GeneralViewGIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/GeneralViewGIF.gif)
 
 **Movement of Robot** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/MoveRobot.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/MoveRobot.gif)
 
 **Lighting Settings** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/LightingSettingsGIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/LightingSettingsGIF.gif)
 
 1. **Erkek Heykeli / Statue of a Man** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/Model1GIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/Model1GIF.gif)
 
 2. **Lahit - Aslanli / Sarcophagus with Lion Reliefs** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/Model2GIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/Model2GIF.gif)
 
 3. **Arabali Tanri Tarhunda / Chariot-Borne God Tarhunda** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/Model3GIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/Model3GIF.gif)
 
 4. **Lahit - Figurlu / Sarcophagus with Mythological Figures** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/Model4GIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/Model4GIF.gif)
 
 5. **Kadin Rolyefli Mezar Steli / Funerary Stele with Female Relief** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/Model5GIF.gif)
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/Model5GIF.gif)
 
 
 **Image Gallery** <br/><br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/InfoPopUpImage.jpg) <br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/ScanningImage.jpg) <br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/RobotImage.png) <br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/TourMenuImage.png) <br/>
-![](https://github.com/S3zgin4/Virtual-Museum/tree/main/Images-and-GIFs/LightSettingImage.png) 
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/InfoPopUpImage.jpg) <br/>
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/ScanningImage.jpg) <br/>
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/RobotImage.png) <br/>
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/TourMenuImage.png) <br/>
+![](https://github.com/S3zgin4/Virtual-Museum/blob/main/Images-and-GIFs/LightSettingImage.png) 
 <br/><br/>
 **You can also check the Overview-Video-Museum file in the repository to watch the final overview of our Virtual Museum Project.** <br/>
 
